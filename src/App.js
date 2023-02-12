@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "./App.css";
 import Board from "./components/Board";
-import Square from "./components/Square";
+// import Square from "./components/Square";
 
 function App() {
   // board에 작성해 둔 history는 Square와 Board 컴포넌트에서 둘 다
