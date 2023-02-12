@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mini-tictactoe/static/css/main.264c9409.css",
+    "main.js": "/mini-tictactoe/static/js/main.f900fcb7.js",
+    "static/js/787.6b0bed1b.chunk.js": "/mini-tictactoe/static/js/787.6b0bed1b.chunk.js",
+    "index.html": "/mini-tictactoe/index.html",
+    "main.264c9409.css.map": "/mini-tictactoe/static/css/main.264c9409.css.map",
+    "main.f900fcb7.js.map": "/mini-tictactoe/static/js/main.f900fcb7.js.map",
+    "787.6b0bed1b.chunk.js.map": "/mini-tictactoe/static/js/787.6b0bed1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.264c9409.css",
+    "static/js/main.f900fcb7.js"
+  ]
+}
